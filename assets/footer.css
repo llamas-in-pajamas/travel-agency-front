@@ -1,0 +1,26 @@
+.footer {
+  background-color: var(--gray-9);
+  color: var(--gray-0);
+  padding: 35px 0;
+}
+
+.footer-social-media-icon {
+  font-size: 24px;
+}
+
+.footer-company-info,
+.footer-terms-and-conditions {
+  list-style: none;
+  margin-left: 0;
+}
+
+.footer-company-info li a,
+.footer-terms-and-conditions li a {
+  color: var(--gray-0);
+}
+
+.footer-company-info li a:hover,
+.footer-terms-and-conditions li a:hover {
+  color: var(--gray-2);
+  text-decoration: none;
+}
