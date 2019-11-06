@@ -24,3 +24,7 @@
   color: var(--gray-2);
   text-decoration: none;
 }
+
+.footer-copyright {
+  color: var(--gray-3);
+}
