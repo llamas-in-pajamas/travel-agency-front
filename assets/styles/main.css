@@ -7,6 +7,10 @@ body {
   margin: 0 auto;
 }
 
+section {
+  padding: 80px 0;
+}
+
 h1 {
   font-size: 64px;
   line-height: 64px;
@@ -40,6 +44,11 @@ p {
 small {
   font-size: 13px;
   line-height: 16px;
+}
+
+.long-copy {
+  width: 80%;
+  margin-left: 10%;
 }
 
 h1,
