@@ -1,0 +1,8 @@
+.places-carousel > img {
+  height: 50px;
+  width: 5px;
+}
+
+.places-carousel > h5 {
+  color: black;
+}
