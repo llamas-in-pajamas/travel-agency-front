@@ -11,6 +11,10 @@ section {
   padding: 40px 0;
 }
 
+.card {
+  margin: 20px;
+}
+
 h1 {
   font-size: 64px;
   line-height: 64px;
