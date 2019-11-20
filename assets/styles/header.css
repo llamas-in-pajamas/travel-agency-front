@@ -29,7 +29,17 @@ header {
   margin-bottom: 0;
 }
 
-.main-nav {
+.navbar-links li a {
+  color: white;
+}
+
+.nav-brand {
+  color: white;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+}
+
+/* .main-nav {
   float: right;
   list-style: none;
 }
@@ -53,4 +63,4 @@ header {
 .main-nav li a:hover,
 .main-nav li a:active {
   border-bottom: 2px solid #5ade00;
-}
+} */
