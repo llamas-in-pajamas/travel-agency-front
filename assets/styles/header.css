@@ -1,20 +1,20 @@
 header {
   /* background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url(../img/logo.png); */
-  background: rgb(2, 0, 36);
+  /* background: rgb(2, 0, 36);
   background: linear-gradient(
     90deg,
     rgba(2, 0, 36, 1) 0%,
     rgba(9, 9, 121, 1) 10%,
-    rgba(0, 212, 255, 0.8015581232492998) 100%
+    rgba(0, 212, 255, 0.8015581232492998) 100% */
   );
-  background-size: cover;
-  background-position: 50% 13%;
-  height: 80px;
-  position: fixed;
-  z-index: 100;
+  /* background-size: cover; */
+  /* background-position: 50% 13%;
+  height: 80px; */
+  /* position: fixed; */
+  /* z-index: 100;
   width: 100vw;
-}
+} */
 
 .page-content {
   padding-top: 100px;
